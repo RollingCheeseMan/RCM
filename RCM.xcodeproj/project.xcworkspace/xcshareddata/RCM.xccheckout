@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D82ED02-7A45-4672-960B-BE75B8676F90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RCM</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB399AF1-E7A0-490C-ABD5-D7977B740686</key>
+		<string>ssh://github.com/RollingCheeseMan/RCM.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RCM.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB399AF1-E7A0-490C-ABD5-D7977B740686</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/RollingCheeseMan/RCM.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB399AF1-E7A0-490C-ABD5-D7977B740686</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB399AF1-E7A0-490C-ABD5-D7977B740686</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RCM</string>
+		</dict>
+	</array>
+</dict>
+</plist>

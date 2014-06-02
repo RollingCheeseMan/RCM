@@ -6,13 +6,14 @@
 //  Copyright (c) 2014 Rolling Cheese Man. All rights reserved.
 //
 
-#include <iostream>
+#include "GameManager.h"
 
 int main(int argc, const char * argv[])
 {
-
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    GameManager *gameManager = &GameManager::getGameManager();
+    gameManager->runGameLoop();
+    GameManager::destroyGameManager();
+    
     return 0;
 }
 
